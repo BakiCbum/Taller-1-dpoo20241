@@ -1,0 +1,13 @@
+tipo:normal:7000:80.0
+tipo:diesel:9000:80.0
+tipo:premium:9000:80.0
+tipo:low cost:5000:80.0
+surtidor:Juanito:normal:0.0:diesel:0.0:premium:0.0:low cost:0.0
+surtidor:Marianita:normal:0.0:diesel:0.0:premium:0.0:low cost:0.0
+surtidor:Pepito:normal:0.0:diesel:0.0:premium:0.0:low cost:0.0
+surtidor:Kevin:normal:0.0:diesel:0.0:premium:0.0:low cost:0.0
+empleado:Kevin:0
+empleado:Juanito:0
+empleado:Petroski:0
+empleado:Marianita:0
+empleado:Pepito:0
